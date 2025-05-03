@@ -20,12 +20,12 @@ Origine : [Picasso](https://hackropole.fr/fr/challenges/reverse/fcsc2023-reverse
 > http://localhost
 
 #### tentez 
-> nc picasso.cyrhades.fr:4000
+> nc picasso.cyrhades.fr 4000
 
 -----------
 
 ## Ou directement avec netcat
-> nc localhost:4000
+> nc localhost 4000
 
 
 -----------

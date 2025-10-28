@@ -7,7 +7,7 @@ Fichiers:
 - [picasso](picasso)
 
 
-Auteurs : [Cryptanalyse](https://twitter.com/Cryptanalyse)
+Auteurs : [Cryptanalyse](https://x.com/Cryptanalyse)
 
 
 Origine : [Picasso](https://hackropole.fr/fr/challenges/reverse/fcsc2023-reverse-picasso/)
